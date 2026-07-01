@@ -4,7 +4,7 @@ import "./globals.css";
 
 export const metadata: Metadata = {
   metadataBase: new URL(
-    process.env.NEXT_PUBLIC_SITE_URL ?? "https://wedding-invite-iqtn.vercel.app"
+    process.env.NEXT_PUBLIC_SITE_URL ?? "https://wedding-invite-natasha.vercel.app"
   ),
   title: siteConfig.meta.title,
   description: siteConfig.meta.description,
